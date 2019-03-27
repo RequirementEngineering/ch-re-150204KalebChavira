@@ -42,3 +42,4 @@ Con cama supletoria: Estas habitaciones son ideales para quienes viajan con alg�
  
 * Suite nupcial: Pensada para aquellas parejas recién casadas y que quieren disfrutar de una luna de miel con privacidad e intimidad, estas habitaciones en los lugares más exclusivos de los hoteles (generalmente acompañadas sólo por las suite presidencial). Además de una cama matrimonial amplia, generalmente cuentan con jacuzzi y una vista única.
   
+1.4 Referencias:
