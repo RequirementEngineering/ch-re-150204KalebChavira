@@ -55,3 +55,15 @@ En este systema se tendra restricciones entre el recepcionista y el administrado
 El cliente tendra a su dispocision diferentes habitaciones en cual podra hacer registro de la que se encuentren disponibles y la que guste reservar.
 
 >2.- Overall Description
+
+El systema funcionara usando el CRUD (create, read, update and delete), de una base de datos apartir de un sistema usando diferentes interfaces con cada uno de estos propositos:
+
+Create: Creando la reservación de las habitaciones deseadas y quitar la disponibildad a esas habitaciones.
+
+Read: Revisando si habitaciones estan desocupadas para poder ser apartadas.
+
+Update: Poder generar cambios de la reservacion, cambios de habitacion o cambio de cantidad de reservaciones.
+
+Delete: Dar de baja la reservacion y dar disponibilidad a las habitaciones que serian ocupadas.
+
+Este mismo systema estara conectado a un systema de pago, el cual sera involucrado con pago de efectivo, o tarjeta de credito o debito.
