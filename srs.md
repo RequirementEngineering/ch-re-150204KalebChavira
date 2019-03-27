@@ -5,6 +5,9 @@
 
 Crear un sistema el cual tenga el unico proposito de reservar cuartos de hotel en Ciudad Universitaria.
 Llevar el control exacto de las altas y bajas de huespedes de un hotel, para así, dar de manera eficaz el cargo a pagar por parte del cliente.
+* Registrar las altas y bajas de huespedes.
+* Manejar la disposicion de habitaciones.
+* Calcular el monto a pagar.
 
 1.2 Scope:
 
@@ -18,3 +21,4 @@ c)La autitificacion del cliente se efectual al momento posterior al pago final.
 
 d)Los administradores del hotel tienen acceso a cada parte del front end del systema, los recepcionistas tendran accesos restringidos tales como solo dar altas del systema.
 
+1.3 Glosary:
