@@ -82,3 +82,30 @@ La segunda parte es la forma de pago, ya que sea a traves de efectivo, se hacen 
 
 2.2 Product functions
 
+La forma de efectuar el sistema es validando quien es el que usara el sistema, ya que sea un recepcionista o un administrador, este requiera entrar a traves de una pantalla de LOg In siendo validada por la base de datos y en la tablas de empleados con un usuario y una contraseña.
+
+Una vez ya adentro del sistema, se llevara a cabo una entrevista sobre la reservacion de los cuartos del hotel siendo esta en persona o a traves de una llamada por telefono o celular, verificando y llendando todos los campos obligatorios de la interfaz de apartados es la manera en que se efectua la reservacion, despues de ese proceso se lleva a cabo la verificacion de la informacion de la habitacion o habitaciones del hotel, una vez validado esta en la base de datos y el cliente estando de acuerdo con sus especificaciones se llevara a caputarar los datos del cliente para concluir la reservacion de las habitaciones, estos datos tambien se guardaran en la base de datos pero llenando los datos en las tablas de clientes.
+
+Al concluir la reservacion se quedan almacenados los datos de esta misma, cuando el cliente recida al hotel se llevara el metodo de pago ya se en efectivo y moverlo, o a traves de transacciones bancareas.
+
+2.3 User Characteristics:
+
+En esta area de trabajo se manejaran e tipos de actores que el cual son los Customers y los End Users, estos son los clientes que participarian en la entrevista para saber cuales habitaciones van a querer. Las carateristicas que ellos deben de tener son:
+* Tener conocimiento de que tipo de habitaciones va a querer recervar.
+* Tener un metodo de pago y la capacidad de hacerlo.
+* Identificarse con su informacion real y veridica.
+* Ser mayor de edad.
+* Contar con la informacion anticipada de las capacidaddes del hotel.
+
+Recepcionista:
+* Tener la capacidad de entrar al systema como recipcionista con un usuario y una contraseña.
+* Tener conocimiento de como llenar los campos de la interfaz de altas del systema.
+* Tener la capacidad de atender amablemente al cliente.
+* Ser empleado del hotel y haber sido capacitado para el puesto.
+
+Administrador:
+* Tener la capacidad de entrar al systema como admistrador con un usuario y una contraseña.
+* Tener conocimiento de como llenar los campos de la interfaz de altas, bajas y cambios del systema.
+* Tener la capacidad de atender amablemente al cliente.
+* Tener la capacidad de poder apoyar al recepcionista con los conflictos encontrados.
+* Ser empleado del hotel y haber sido capacitado para el puesto.
