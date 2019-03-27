@@ -67,3 +67,18 @@ Update: Poder generar cambios de la reservacion, cambios de habitacion o cambio 
 Delete: Dar de baja la reservacion y dar disponibilidad a las habitaciones que serian ocupadas.
 
 Este mismo systema estara conectado a un systema de pago, el cual sera involucrado con pago de efectivo, o tarjeta de credito o debito.
+
+2.1 Product perspective:
+
+El proyecto funcionara en dos partes:
+
+La primera parte funcionara con la reservacion, a traves de interfaces el proyecto tiene que visualizar la disponibilidad de las habitaciones, mostrar los tipos de habitaciones, los costos, la cantidad de personas, las fechas de entradas, fechas de salidas, restricciones de habitaciones, y la verificaciones de que los datos esten correctos.
+
+Poder modificar la reservaciones, tal como poder modificar fechas, cantidad de habitaciones, tipos de habitaciones, forma de pago, etc.
+
+Eliminar reservaciones, poder eliminar la reservacion ya efectuada y liberar las habitaciones apartadas.
+
+La segunda parte es la forma de pago, ya que sea a traves de efectivo, se hacen los cargos por la reservacion y se efectua los calculos de los pagos y el cambio en el cual sea necesario de usar, a traves del sistema de transaaccion bancarea aun queda no establecida.
+
+2.2 Product functions
+
