@@ -43,3 +43,15 @@ Con cama supletoria: Estas habitaciones son ideales para quienes viajan con alg�
 * Suite nupcial: Pensada para aquellas parejas recién casadas y que quieren disfrutar de una luna de miel con privacidad e intimidad, estas habitaciones en los lugares más exclusivos de los hoteles (generalmente acompañadas sólo por las suite presidencial). Además de una cama matrimonial amplia, generalmente cuentan con jacuzzi y una vista única.
   
 1.4 Referencias:
+
+Joaquin Chavira, Eduardo Hernandez. (2019). Reservacion Hotel CU. 27/03/20019, de GitHub Sitio web: https://github.com/alanponce/OOP-100-days-of-code/blob/master/OOP/Proyects/Res_Hab_Hotel/Presentaci%C3%B3n
+
+1.5 Overview
+
+El systema a desarrollar ayudara con la eficiencia y eficacia en la reservacion de cuartos en el hotel ubicado en Ciuadad Universitaria, teniendo en cuenta las altas de habitaciones, baja de habitaciones y cambios en la reservacion de estas mismas.
+
+En este systema se tendra restricciones entre el recepcionista y el administrador.
+
+El cliente tendra a su dispocision diferentes habitaciones en cual podra hacer registro de la que se encuentren disponibles y la que guste reservar.
+
+>2.- Overall Description
