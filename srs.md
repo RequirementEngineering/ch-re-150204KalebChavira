@@ -109,3 +109,20 @@ Administrador:
 * Tener la capacidad de atender amablemente al cliente.
 * Tener la capacidad de poder apoyar al recepcionista con los conflictos encontrados.
 * Ser empleado del hotel y haber sido capacitado para el puesto.
+
+2.4 Constraints
+
+* El proyecto esta restingido a que trabaja de manera distribuida pero de manera local, solo se piensa desarrollar en el area de trabajo conectado en un systema remoto, para poder efectuar la reservacion es necesario estar usando las computadoras que se tiene instalado el systema.
+* No existe una manera de mostrar visualmente las habitaciones disponibles al usuario a menos que se encuentre en la entrevista precencial.
+* El programa no se puede ejecutar a menos que tengas un usuario y una contraseña activo en la base de datos.
+*
+
+2.5 Assumptions and dependencies
+
+* Que el banco ayude y proporciones los artefactos para desarrollar o implementar el sistema del metodo de pago atraves de transferencias bancareas
+* 
+
+2.6 Apportioning of requirements
+
+Los requisitos de la forma de pago atraves de tranferencias bancareas seras desplasadas al la siguiente etapa de mejoramiento del sistema, si es que no se encuentra la forma ideal para este metodo de pago.
+
