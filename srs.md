@@ -9,4 +9,7 @@ Llevar el control exacto de las altas y bajas de huespedes de un hotel, para asÃ
 1.2 Scope:
 
 El alcance del systema va para aquellas personas los cuales quieran hacer un apartado de reservaciÃ³n en el hotel el cual esta ubicado en Ciudad Universitaria, a los recepcionistas que estan encargados de hacer la reservacion ya sea a traves de una entrevista por llamada de celular o telefono, o en tener la entrevista en la recepcion del hotel.
+
 a)
+
+>>>
