@@ -4,7 +4,9 @@
 1.1 Purpose:
 
 Crear un sistema el cual tenga el unico proposito de reservar cuartos de hotel en Ciudad Universitaria.
+
 Llevar el control exacto de las altas y bajas de huespedes de un hotel, para así, dar de manera eficaz el cargo a pagar por parte del cliente.
+
 * Registrar las altas y bajas de huespedes.
 * Manejar la disposicion de habitaciones.
 * Calcular el monto a pagar.
