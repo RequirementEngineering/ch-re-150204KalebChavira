@@ -1,6 +1,9 @@
 # Software Requirement Specification (SRS) para Systema de Reservación de Hotel CU
+-[Introducion](#introducion)
+
 ***
-> 1.-Introduccion
+
+># 1.-Introduccion#
 
 1.1 Purpose:
 
