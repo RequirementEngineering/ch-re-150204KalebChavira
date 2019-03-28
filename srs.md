@@ -139,3 +139,7 @@ ID_Cliente | int | identificador del cliente
 Nombre del Cliente | String | el nombre del cliente
 Apellido del Cliente | String | el apellido del cliente
 Telefono | LongInt | numero de telefono del cliente
+
+3.1.1 User Interfaces
+
+![GitHub Logo](C:\Users\Alumnos\Downloads\AltasHotel)
