@@ -143,3 +143,4 @@ Telefono | LongInt | numero de telefono del cliente
 3.1.1 User Interfaces
 
 ![AltasHotel](C:\Users\Alumnos\Downloads\AltasHotel)
+Format: ![Alt Text](url)
