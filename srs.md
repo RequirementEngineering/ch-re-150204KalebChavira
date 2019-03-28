@@ -3,14 +3,12 @@
 Index
 
 - [Introduccion](#Introduccion)
-
 - [Overall Description](#Overall-Description)
-
 - [Specific Requirements](#Specific-Requirements)
 
 ***
 
-## 1.-Introduccion ##
+## Introduccion ##
 
 1.1 Purpose:
 
@@ -67,7 +65,7 @@ El cliente tendra a su dispocision diferentes habitaciones en cual podra hacer r
 
 ***
 
-## 2.- Overall-Description ##
+## Overall-Description ##
 
 El systema funcionara usando el CRUD (create, read, update and delete), de una base de datos apartir de un sistema usando diferentes interfaces con cada uno de estos propositos:
 
@@ -141,7 +139,7 @@ Los requisitos de la forma de pago atraves de tranferencias bancareas seras desp
 
 ***
 
-## 3.- Specific Requirements ##
+## Specific Requirements ##
 
 3.1 External Requirements:
 * Tener instalado en las comnputadoras de trabajo de MySQL(ultima version disponible)
