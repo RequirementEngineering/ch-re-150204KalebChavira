@@ -156,4 +156,4 @@ Telefono | LongInt | numero de telefono del cliente
 3.1.1 User Interfaces
 
 Altas de registro del hotel:
-![AltasHotel](https://github.com/alanponce/OOP-100-days-of-code/blob/master/OOP/Proyects/Res_Hab_Hotel/Bocetos/AltasHotel.PNG=600x300)
+![AltasHotel](https://github.com/alanponce/OOP-100-days-of-code/blob/master/OOP/Proyects/Res_Hab_Hotel/Bocetos/AltasHotel.PNG =600x300)
