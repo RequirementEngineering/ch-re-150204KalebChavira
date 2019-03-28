@@ -67,7 +67,7 @@ El cliente tendra a su dispocision diferentes habitaciones en cual podra hacer r
 
 ***
 
-## 2.- Overall Description
+## 2.- Overall-Description
 
 El systema funcionara usando el CRUD (create, read, update and delete), de una base de datos apartir de un sistema usando diferentes interfaces con cada uno de estos propositos:
 
