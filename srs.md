@@ -1,4 +1,5 @@
 # Software Requirement Specification (SRS) para Systema de Reservación de Hotel CU
+***
 > 1.-Introduccion
 
 1.1 Purpose:
@@ -53,6 +54,8 @@ El systema a desarrollar ayudara con la eficiencia y eficacia en la reservacion 
 En este systema se tendra restricciones entre el recepcionista y el administrador.
 
 El cliente tendra a su dispocision diferentes habitaciones en cual podra hacer registro de la que se encuentren disponibles y la que guste reservar.
+
+***
 
 >2.- Overall Description
 
