@@ -158,5 +158,6 @@ Telefono | LongInt | numero de telefono del cliente
 Altas de registro del hotel:
 ![AltasHotel](https://github.com/alanponce/OOP-100-days-of-code/blob/master/OOP/Proyects/Res_Hab_Hotel/Bocetos/AltasHotel.PNG) 
 
-Login
+Login:
+
 ![LogIn](https://github.com/alanponce/OOP-100-days-of-code/blob/master/OOP/Proyects/Res_Hab_Hotel/Dise%C3%B1o%20Interface%20Grafica/LogIn.PNG)
