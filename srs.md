@@ -2,7 +2,7 @@
 
 Index
 
-- [Introducion](#Introduccion)
+- [Introduccion](#Introduccion)
 
 - [Overall Description](#Overall-Description)
 
@@ -10,7 +10,7 @@ Index
 
 ***
 
-> ## 1.-Introduccion
+> ## 1.-Introduccion ##
 
 1.1 Purpose:
 
