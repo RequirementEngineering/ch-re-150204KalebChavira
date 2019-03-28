@@ -126,6 +126,8 @@ Administrador:
 
 Los requisitos de la forma de pago atraves de tranferencias bancareas seras desplasadas al la siguiente etapa de mejoramiento del sistema, si es que no se encuentra la forma ideal para este metodo de pago.
 
+***
+
 > 3.- Specific Requirements
 
 3.1 External Requirements:
@@ -142,5 +144,5 @@ Telefono | LongInt | numero de telefono del cliente
 
 3.1.1 User Interfaces
 
-Altas de registro del hotel
+Altas de registro del hotel:
 ![AltasHotel](https://github.com/alanponce/OOP-100-days-of-code/blob/master/OOP/Proyects/Res_Hab_Hotel/Bocetos/AltasHotel.PNG)
