@@ -135,5 +135,6 @@ Los requisitos de la forma de pago atraves de tranferencias bancareas seras desp
 
 Nombre de la entrada | Tipo de dato | Descripcion
 ------------ | ------------- | -------------
-Nombre del Cliente | String | //el nombre del cliente
-Apellido del Cliente | String | //el apellido del cliente
+Nombre del Cliente | String | el nombre del cliente
+Apellido del Cliente | String | el apellido del cliente
+Telefono |  |
