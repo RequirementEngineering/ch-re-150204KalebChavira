@@ -1,6 +1,7 @@
 # Software Requirement Specification (SRS) para Systema de Reservación de Hotel CU
 -[Introducion](#Introduccion)
-
+-[Overall Description](#Overall Description)
+-[Specific Requirements](#Specific Requirements)
 ***
 
 > # 1.-Introduccion
@@ -60,7 +61,7 @@ El cliente tendra a su dispocision diferentes habitaciones en cual podra hacer r
 
 ***
 
->2.- Overall Description
+> # 2.- Overall Description
 
 El systema funcionara usando el CRUD (create, read, update and delete), de una base de datos apartir de un sistema usando diferentes interfaces con cada uno de estos propositos:
 
@@ -134,7 +135,7 @@ Los requisitos de la forma de pago atraves de tranferencias bancareas seras desp
 
 ***
 
-> 3.- Specific Requirements
+> # 3.- Specific Requirements
 
 3.1 External Requirements:
 * Tener instalado en las comnputadoras de trabajo de MySQL(ultima version disponible)
