@@ -142,5 +142,5 @@ Telefono | LongInt | numero de telefono del cliente
 
 3.1.1 User Interfaces
 
-![AltasHotel](C:\Users\Alumnos\Downloads\AltasHotel)
-Format: ![Alt Text](url)
+Altas de registro del hotel
+![AltasHotel](![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png))
