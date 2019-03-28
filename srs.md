@@ -3,7 +3,7 @@
 
 ***
 
-># 1.-Introduccion#
+#> 1.-Introduccion
 
 1.1 Purpose:
 
