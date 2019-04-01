@@ -164,5 +164,86 @@ Altas de registro del hotel:
 ![AltasHotel](https://github.com/alanponce/OOP-100-days-of-code/blob/master/OOP/Proyects/Res_Hab_Hotel/Bocetos/AltasHotel.PNG) 
 
 Bajas:
+
 ![BajasHotel](https://github.com/alanponce/OOP-100-days-of-code/blob/master/OOP/Proyects/Res_Hab_Hotel/Dise%C3%B1o%20Interface%20Grafica/Bajas.PNG)
 
+3.1.2 Hardware Requirements
+
+Esta aplicacion no requiere cosas adicionales a una computadora y una red, ya que la base de datos de esta misma esta conectada a todas las computadoras, la base de datos esta ubicada en cada una de ellas y es actulizada al momento.
+
+3.1.3
+
+Software interfaces
+
+Estas solo seran elaboradas con cada proceso tales como:
+* Entrar al system siendo un usuario o administrador.
+* Dar de alta reservaciones.
+* Hacer cambios en la reservaciones.
+* Eliminar Reservaciones.
+* Un menu donde escojamos el tipo de proceso o salir del systema
+
+3.1.4 Communications interfaces
+La comunicacion entre la interfaces se maneja atraves del CRUD en la base de datos, estas interfaces lo que hacen es revisar la informacion de la base de datos y hacer modificaciones, tal como dar altas, bajas y cambios.
+
+
+
+3.2 Functional requirements.
+
+Esta sección incluye los requerimientos que especifican todas las acciones fundamentales del sistema de software del proyecto de reservaciones de habitaciones del Hotel Foráneos CU. 
+
+3.2.1 User class 1 – Recepcionista
+
+3.2.1.1 Functional requirement 1.1
+
+ID: FR1 
+Feature: Login del recepcionista 
+DESC: Dado que el id y contraseña del recepcionista 
+            fueron registrados por los programadores en el sistema 
+            el recepcionista deberia ser capaz de usar ambos datos para acceder al sistema 
+RAT:   En orden para que el recepcionista entre al sistema 
+DEP: None 
+ 
+3.2.1.2 Functional requirement 1.2 
+ 
+ID: FR2 
+Feature: Captura de la peticion de reservacion 
+DESC: Dado que el recepcionista  
+           esta en ejercicio de su funcion laboral de hacer una reservacion 
+           Y esta dentro del sistema, en la interface de para hacer reservaciones en especifico* 
+           el deberia ser capaz de verificar~ y llenar los campos obligatorios de la interfaz de apartados 
+RAT:   En orden para capturar la peticion del cliente 
+DEP: FR1
+*Hay una interface mas especifica para esta etapa? 
+~Como puede verificar?
+ 
+3.2.1.3 Functional requirement 1.3 
+ 
+ID: FR3 
+Feature: Validación de reservación con la base de datos 
+DESC: Dado que a sido capturada la informacion de la peticion de reservacion 
+            se debería poder  verificar comparándola con la(s) habitación(es) en la base de datos 
+ 
+                      Escenario: Se valida una reservacion 
+                      Cuando en la verificacion de la base de datos 
+                      Se encuentra(n) habitacionI(es) con caracterizacion parecida a la peticion de la reservacion 
+                      Se deberia ser capaz de validar la reservacion 
+ 
+                      Escenario: No valida una reservacion 
+                      Cuando en la verificacion de la base de datos 
+                      No se encuentra(n) habitacionI(es) con caracterizacion parecida a la peticion de la reservacion 
+                      No se deberia de validar la reservacion 
+ 
+RAT:   En orden para validar la reservación con la base de datos  
+DEP: FR2 
+ 
+3.2.1.4 Functional requirement 1.4 
+ 
+ID: FR4 
+Feature: Registro de la reservacion 
+DESC: Dado que la reservacion esta validada en la base de datos 
+            se deberian poder capturar los datos del cliente 
+            Para poder registrar la reservacion 
+            La cual pasa a la base de datos 
+            datos del cliente en particular que tambien se guardaran en la base de datos de clientes 
+RAT:   Para registrar la reservación 
+DEP: FR3 
