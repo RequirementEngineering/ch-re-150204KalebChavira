@@ -186,7 +186,7 @@ Estas solo seran elaboradas con cada proceso tales como:
 La comunicacion entre la interfaces se maneja atraves del CRUD en la base de datos, estas interfaces lo que hacen es revisar la informacion de la base de datos y hacer modificaciones, tal como dar altas, bajas y cambios.
 
 
-## Functional-requirements##
+## Functional-requirements ##
 
 Esta sección incluye los requerimientos que especifican todas las acciones fundamentales del sistema de software del proyecto de reservaciones de habitaciones del Hotel Foráneos CU. 
 
