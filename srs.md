@@ -5,7 +5,7 @@ Index
 - [1.-Introduccion](#Introduccion)
 - [2.-Overall Description](#Overall-Description)
 - [3.-Specific Requirements](#Specific-Requirements)
-- [4.-Functional requirements](#Functional-requirements)
+- [3.2 .-Functional requirements](#Functional-requirements)
 ***
 
 ## Introduccion ##
