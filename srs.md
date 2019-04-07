@@ -25,6 +25,7 @@ Index.-
 - [2.-Overall Description](#Overall-Description)
 - [3.-Specific Requirements](#Specific-Requirements)
 - [3.2 .-Functional requirements](#Functional-requirements)
+- [3.3 .-Performance requirements](#Performance-requirements)
 ***
 
 ## Introduccion ##
@@ -463,6 +464,6 @@ DESC: Para hacer cambios en una reservacion
 RAT:   En orden para registrar el cambio de una reservación 
 DEP: FR7
 
-  3.3 Performance requirements
+  ## Performance requirements ##
   
   
