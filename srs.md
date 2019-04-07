@@ -19,7 +19,7 @@ Joaquin Kaleb Chavira Gonzalez - 150204</br>
 
 # Software Requirement Specification (SRS) para Systema de Reservación de Hotel CU
 
-Index
+Index.-
 
 - [1.-Introduccion](#Introduccion)
 - [2.-Overall Description](#Overall-Description)
