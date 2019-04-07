@@ -464,6 +464,30 @@ DESC: Para hacer cambios en una reservacion
 RAT:   En orden para registrar el cambio de una reservación 
 DEP: FR7
 
+ID: FR11 
+Feature: Validación de bajas en la base de datos 
+DESC: Dado que el admnistrador 
+            esta en la interface de para hacer bajas en especifico
+            Si llena los campos de cambios con estos datos: 
+            ID del Registro, ID del Cliente, Nombre, Apellido,  
+            tipo de Habitacion, Cantidad de Habitaciones, Id de Habitaciones
+            si estos datos coinciden con lo de una reservacion,
+            se debería poder validar la baja en la base de datos, 
+          RAT:   En orden para validar la baja con la base de datos 
+DEP: FR4, FR8, FR10 
+ 
+3.2.2.8 Functional requirement 2.8
+ 
+ID: FR12
+Feature: Registro de baja de una reservacion de la(s) habitación(es)  
+DESC: Para hacer baja de una reservacion 
+      la reservacion debe haber sido registrada de alta,
+      y validado su baja, 
+      Entonces el administrador ya deberia poder registrar la baja de la(s) reservacion(es)
+RAT:   En orden para registrar la baja de una reservación 
+DEP: FR4, FR8, FR10, FR11
+
+
   ## Performance requirements ##
   
   ID: QR1
