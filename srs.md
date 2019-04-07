@@ -458,7 +458,7 @@ DESC: Para hacer cambios en una reservacion
                  y esta(n) disponible(s) desde la fecha de llegada hasta la fecha de salida del cliente,  
                  Por lo que al momento en que se le informa al cliente, este acepta hacer el cambio  
                  Entonces se debería poder registrar el cambio de la reservacion 
-                 en la base de datos de reservaciones 
+                en la base de datos de reservaciones 
                  Quitando disponibilidad de la(s) habitacion(es) reservadas  
  
 RAT:   En orden para registrar el cambio de una reservación 
@@ -466,4 +466,10 @@ DEP: FR7
 
   ## Performance requirements ##
   
-  
+  ID: QR1
+Title: Relacion de campos
+
+DESC: Los campos a llenar deben tener un nombre de la caracteristica a llenar, asi siguiendo la logica de una lectura poder identificar el tipo de dato de llenar y con que se debe de llenar. 
+                
+RAT: Esto incluye la usabilidad para el usuario tenga la facilidad de leer la interfaz.
+DEP:
