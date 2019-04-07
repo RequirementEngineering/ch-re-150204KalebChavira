@@ -17,7 +17,7 @@ Joaquin Kaleb Chavira Gonzalez - 150204</br>
 
 
 
-# Software Requirement Specification (SRS) para Systema de Reservación de Hotel CU
+# Software Requirement Specification (SRS) para Sistema de Reservación de Hotel CU
 
 Index.-
 
@@ -125,19 +125,21 @@ En esta area de trabajo se manejaran e tipos de actores que el cual son los Cust
 Usuario | Descripcion
 -------------- | -----------------
 Cliente |* Tener conocimiento de que tipo de habitaciones va a querer recervar.
-. | Tener un metodo de pago y la capacidad de hacerlo.
-. | Identificarse con su informacion real y veridica.
+. | Tener un metodo de pago y contar el monto de dinero.
+. | Identificarse con su informacion real y veridica tal como una ID oficial por parte de su entidad.
 . | Ser mayor de edad.
 . | Contar con la informacion anticipada de las capacidaddes del hotel.
-Recepcionista: | Tener la capacidad de entrar al sistema como recipcionista con un usuario y una contraseña.
-.| Tener conocimiento de como llenar los campos de la interfaz de altas del sistema.
-.| Tener la capacidad de atender amablemente al cliente.
-.| Ser empleado del hotel y haber sido capacitado para el puesto.
-Administrador: | Tener la capacidad de entrar al sistema como admistrador con un usuario y una contraseña.
-. | Tener conocimiento de como llenar los campos de la interfaz de altas, bajas y cambios del sistema.
-. |  Tener la capacidad de atender amablemente al cliente.
-. | Tener la capacidad de poder apoyar al recepcionista con los conflictos encontrados.
-. | Ser empleado del hotel y haber sido capacitado para el puesto.
+. | Asistir en el transcurso de su estancia en el hotel para poder validar el uso de esa misma
+Recepcionista: | Haber aprovado el curso de entrar al sistema como recipcionista con un usuario y una contraseña.
+.| Haber aprovado el curso de como llenar los campos de la interfaz de altas del sistema.
+.| Ser cordial con el cliente y atenderlo amablemente.
+.| Ser empleado del hotel y haber sido capacitado para el puesto con los cursos anteriormente mencionados.
+Administrador: | Haber aprovado el curso de como entrar al sistema como admistrador con un usuario y una contraseña.
+. | Haber aprovado los cursos de como llenar los campos de la interfaz de altas, bajas y cambios del sistema.
+. | Ser cordial con el cliente y atenderlo amablemente.
+. | Tener la disposicion de poder apoyar al recepcionista con los conflictos encontrados, por lo cual se requiere ademas un nivel de expertis.
+. | Ser empleado del hotel y haber aprovado los cursos para el puesto ya mencionados con anterioridad.
+. | Saber conctactar a los StakeHolders que desarrollaron el sistema para renovacion del mismo o resolucion de problemas.
 
 2.4 Constraints:
 
