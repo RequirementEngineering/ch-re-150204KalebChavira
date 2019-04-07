@@ -1,3 +1,22 @@
+<p align="center">
+Universidad Autonoma de Ciudad Juarez</br>
+División Multidisciplinaria de Ciudad Universitaria</br>
+Departamento de Ingeniería Electricidad y Computación</br>
+Ingenieria de Software</br>
+Desarollo de Requisitos de Software
+</p>
+<br>
+<p align="center">
+<img width="270" height="270" 
+  src="http://www.uacj.mx/comunicacion/PublishingImages/Escudo%20UACJ%202015/Escudo%20uacj%202015-color-sin%20fondo.png">
+</p>
+<br>
+<p align="center">
+Joaquin Kaleb Chavira Gonzalez - 150204</br>
+</p>
+
+
+
 # Software Requirement Specification (SRS) para Systema de Reservación de Hotel CU
 
 Index
