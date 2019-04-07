@@ -436,7 +436,33 @@ DESC: Para hacer cambios en una reservacion
 RAT:   En orden para registrar el alta de una reservación 
 DEP: FR7
   
-  
+  3.2.2.6 Functional requirement 2.6 
+ 
+ID: FR10 
+Feature: Registro de cambios de una reservacion de la(s) habitación(es)  
+DESC: Para hacer cambios en una reservacion 
+     la reservacion debe haber sido registrada de alta, y validado su cambio tiene dos consecuencias posibles: 
+ 
+                 Escenario: No se registra de cambio de una reservacion 
+                 Cuando en la validacion de cambio la base de datos 
+                 No hubo habitacion(es) con caracterizacion parecida a la peticion de reservacion 
+                 O lo que se encontro no fue satisfactorio para el cliente
+                 o no se encontraron desocupadas en la nuevas fechas de peticion
+                 Por lo que este cancela su peticion de cambios 
+                 Entonces se debería ser capaz de no registrar el cambio de la reservacion 
+ 
+                 Escenario: Se registra un el cambio de una reservación 
+                 Cuando en la validacion de la base de datos se encontraron una(s) habitación(es) 
+                 Que es (o son) cercana(s) o exactas a la peticion de reservacion,  
+                 y esta(n) disponible(s) desde la fecha de llegada hasta la fecha de salida del cliente,  
+                 Por lo que al momento en que se le informa al cliente, este acepta hacer el cambio  
+                 Entonces se debería poder registrar el cambio de la reservacion 
+                 en la base de datos de reservaciones 
+                 Quitando disponibilidad de la(s) habitacion(es) reservadas  
+ 
+RAT:   En orden para registrar el cambio de una reservación 
+DEP: FR7
+
   3.3 Performance requirements
   
   
