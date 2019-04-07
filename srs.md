@@ -435,3 +435,8 @@ DESC: Para hacer cambios en una reservacion
  
 RAT:   En orden para registrar el alta de una reservación 
 DEP: FR7
+  
+  
+  3.3 Performance requirements
+  
+  
