@@ -125,23 +125,20 @@ En esta area de trabajo se manejaran e tipos de actores que el cual son los Cust
 Usuario | Descripcion
 -------------- | -----------------
 Cliente |* Tener conocimiento de que tipo de habitaciones va a querer recervar.
-| Tener un metodo de pago y la capacidad de hacerlo.
-| Identificarse con su informacion real y veridica.
-| Ser mayor de edad.
-| Contar con la informacion anticipada de las capacidaddes del hotel.
+. | Tener un metodo de pago y la capacidad de hacerlo.
+. | Identificarse con su informacion real y veridica.
+. | Ser mayor de edad.
+. | Contar con la informacion anticipada de las capacidaddes del hotel.
+Recepcionista: | Tener la capacidad de entrar al systema como recipcionista con un usuario y una contraseña.
+.| Tener conocimiento de como llenar los campos de la interfaz de altas del systema.
+.| Tener la capacidad de atender amablemente al cliente.
+.| Ser empleado del hotel y haber sido capacitado para el puesto.
 
-
-|Recepcionista: | Tener la capacidad de entrar al systema como recipcionista con un usuario y una contraseña.
-* Tener conocimiento de como llenar los campos de la interfaz de altas del systema.
-* Tener la capacidad de atender amablemente al cliente.
-* Ser empleado del hotel y haber sido capacitado para el puesto.
-
-Administrador:
-* Tener la capacidad de entrar al systema como admistrador con un usuario y una contraseña.
-* Tener conocimiento de como llenar los campos de la interfaz de altas, bajas y cambios del systema.
-* Tener la capacidad de atender amablemente al cliente.
-* Tener la capacidad de poder apoyar al recepcionista con los conflictos encontrados.
-* Ser empleado del hotel y haber sido capacitado para el puesto.
+Administrador: | Tener la capacidad de entrar al systema como admistrador con un usuario y una contraseña.
+. | Tener conocimiento de como llenar los campos de la interfaz de altas, bajas y cambios del systema.
+. |  Tener la capacidad de atender amablemente al cliente.
+. | Tener la capacidad de poder apoyar al recepcionista con los conflictos encontrados.
+. | Ser empleado del hotel y haber sido capacitado para el puesto.
 
 2.4 Constraints:
 
