@@ -121,11 +121,15 @@ Al concluir la reservacion se quedan almacenados los datos de esta misma, cuando
 2.3 User Characteristics:
 
 En esta area de trabajo se manejaran e tipos de actores que el cual son los Customers y los End Users, estos son los clientes que participarian en la entrevista para saber cuales habitaciones van a querer. Las carateristicas que ellos deben de tener son:
-* Tener conocimiento de que tipo de habitaciones va a querer recervar.
+
+Usuario | Descripcion
+-------------- | -----------------
+Cliente |* Tener conocimiento de que tipo de habitaciones va a querer recervar.
 * Tener un metodo de pago y la capacidad de hacerlo.
 * Identificarse con su informacion real y veridica.
 * Ser mayor de edad.
 * Contar con la informacion anticipada de las capacidaddes del hotel.
+
 
 Recepcionista:
 * Tener la capacidad de entrar al systema como recipcionista con un usuario y una contraseña.
