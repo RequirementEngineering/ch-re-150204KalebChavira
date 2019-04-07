@@ -134,7 +134,7 @@ Recepcionista: | Tener la capacidad de entrar al systema como recipcionista con 
 .| Tener la capacidad de atender amablemente al cliente.
 .| Ser empleado del hotel y haber sido capacitado para el puesto.
 Administrador: | Tener la capacidad de entrar al systema como admistrador con un usuario y una contraseña.
- | Tener conocimiento de como llenar los campos de la interfaz de altas, bajas y cambios del systema.
+. | Tener conocimiento de como llenar los campos de la interfaz de altas, bajas y cambios del systema.
 . |  Tener la capacidad de atender amablemente al cliente.
 . | Tener la capacidad de poder apoyar al recepcionista con los conflictos encontrados.
 . | Ser empleado del hotel y haber sido capacitado para el puesto.
