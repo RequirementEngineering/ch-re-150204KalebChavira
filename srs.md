@@ -491,9 +491,19 @@ DEP: FR4, FR8, FR10, FR11
   ## Performance requirements ##
   
   ID: QR1
+  
 Title: Relacion de campos
 
 DESC: Los campos a llenar deben tener un nombre de la caracteristica a llenar, asi siguiendo la logica de una lectura poder identificar el tipo de dato de llenar y con que se debe de llenar. 
                 
 RAT: Esto incluye la usabilidad para el usuario tenga la facilidad de leer la interfaz.
+DEP:
+
+ID: QR2
+
+Title Validacion de datos
+
+DESC: A traves del botones de validar, los objetos leeran y compararan los datos de la base de datos para determinar si el CRUD es valido y poder hacer recervaciones, cambiarlas o leerlas.
+
+RAT: Validar los campos de las interfaces en altas bajas y cambios, para asegurar que los datos son los adecuados.
 DEP:
