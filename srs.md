@@ -129,19 +129,19 @@ Cliente |* Tener conocimiento de que tipo de habitaciones va a querer recervar.
 . | Identificarse con su informacion real y veridica.
 . | Ser mayor de edad.
 . | Contar con la informacion anticipada de las capacidaddes del hotel.
-Recepcionista: | Tener la capacidad de entrar al systema como recipcionista con un usuario y una contraseña.
-.| Tener conocimiento de como llenar los campos de la interfaz de altas del systema.
+Recepcionista: | Tener la capacidad de entrar al sistema como recipcionista con un usuario y una contraseña.
+.| Tener conocimiento de como llenar los campos de la interfaz de altas del sistema.
 .| Tener la capacidad de atender amablemente al cliente.
 .| Ser empleado del hotel y haber sido capacitado para el puesto.
-Administrador: | Tener la capacidad de entrar al systema como admistrador con un usuario y una contraseña.
-. | Tener conocimiento de como llenar los campos de la interfaz de altas, bajas y cambios del systema.
+Administrador: | Tener la capacidad de entrar al sistema como admistrador con un usuario y una contraseña.
+. | Tener conocimiento de como llenar los campos de la interfaz de altas, bajas y cambios del sistema.
 . |  Tener la capacidad de atender amablemente al cliente.
 . | Tener la capacidad de poder apoyar al recepcionista con los conflictos encontrados.
 . | Ser empleado del hotel y haber sido capacitado para el puesto.
 
 2.4 Constraints:
 
-* El proyecto esta restingido a que trabaja de manera distribuida pero de manera local, solo se piensa desarrollar en el area de trabajo conectado en un systema remoto, para poder efectuar la reservacion es necesario estar usando las computadoras que se tiene instalado el systema.
+* El proyecto esta restingido a que trabaja de manera distribuida pero de manera local, solo se piensa desarrollar en el area de trabajo conectado en un sistema remoto, para poder efectuar la reservacion es necesario estar usando las computadoras que se tiene instalado el sistema.
 * No existe una manera de mostrar visualmente las habitaciones disponibles al usuario a menos que se encuentre en la entrevista precencial.
 * El programa no se puede ejecutar a menos que tengas un usuario y una contraseña activo en la base de datos.
 *
@@ -160,8 +160,9 @@ Los requisitos de la forma de pago atraves de tranferencias bancareas seras desp
 ## Specific Requirements ##
 
 3.1 External Requirements:
-* Tener instalado en las comnputadoras de trabajo de MySQL(ultima version disponible)
+* Tener instalado en las computadoras de trabajo de MySQL(ultima version disponible)
 * Desarrollar la conexion de a la base de datos
+* Tener conectado la IDE a GitHub para la actualizacion del sistema
 * Entradas a tablas clientes:
 
 Nombre de la entrada | Tipo de dato | Descripcion
@@ -170,6 +171,18 @@ ID_Cliente | int | identificador del cliente
 Nombre del Cliente | String | el nombre del cliente
 Apellido del Cliente | String | el apellido del cliente
 Telefono | LongInt | numero de telefono del cliente
+
+* Entradas de la Reservacion:
+
+Nombre de la entrada | Tipo de dato | Descripcion
+------------ | ------------- | -------------
+ID_Registro | Int | Identificador del registro
+ID_Cliente | int | identificador del cliente
+Nombre del Cliente | String | el nombre del cliente
+Tipo de Habitacion | String | seleccionar el tipo de la habitacion ya que este cuenta con diferentes categorias
+Cantidad de habitaciones | LongInt | N numero de habitaciones a reservar
+Fecha de entrada | Date | Fecha en la cual el usurio hara su residencia
+Fecha de Salida | Date | Fecha en la cual el usuario finaliza su residencia
 
 3.1.1 User Interfaces
 
@@ -208,7 +221,9 @@ La comunicacion entre la interfaces se maneja atraves del CRUD en la base de dat
 
 Esta sección incluye los requerimientos que especifican todas las acciones fundamentales del sistema de software del proyecto de reservaciones de habitaciones del Hotel Foráneos CU. 
 
-3.2.1 User class 1 – Recepcionista
+3.2.1 User class 1
+
+Este sistema cuenta con diferentes tipos de clases por lo cual tener una clase abstacta o de usurio no es requerida, aparte esta misma crearia ambiguedad
 
 3.2.1.1 Functional requirement 1.1
 
@@ -227,7 +242,7 @@ Feature: Captura de la peticion de reservacion
 DESC: Dado que el recepcionista  
            esta en ejercicio de su funcion laboral de hacer una reservacion 
            Y esta dentro del sistema, en la interface de para hacer reservaciones en especifico* 
-           el deberia ser capaz de verificar~ y llenar los campos obligatorios de la interfaz de apartados 
+           el deberia ser capaz de validar~ y llenar los campos obligatorios de la interfaz de apartados 
 RAT:   En orden para capturar la peticion del cliente 
 DEP: FR1
 *Hay una interface mas especifica para esta etapa? 
