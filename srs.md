@@ -511,3 +511,4 @@ DEP:
 
 
 ## Appendices ##
+[Documento Elicitacion](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/DocElicitacion(Sistema%20de%20Reservaci%C3%B3n%20de%20Hotel).pdf)
