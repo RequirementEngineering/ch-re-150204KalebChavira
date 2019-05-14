@@ -26,6 +26,7 @@ Index.-
 - [3.-Specific Requirements](#Specific-Requirements)
 - [3.2 .-Functional requirements](#Functional-requirements)
 - [3.3 .-Performance requirements](#Performance-requirements)
+- [3.4 .-Appendices](#Appendices)
 ***
 
 ## Introduccion ##
@@ -507,3 +508,6 @@ DESC: A traves del botones de validar, los objetos leeran y compararan los datos
 
 RAT: Validar los campos de las interfaces en altas bajas y cambios, para asegurar que los datos son los adecuados.
 DEP:
+
+
+## Appendices ##
