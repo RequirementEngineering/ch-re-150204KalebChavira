@@ -213,6 +213,9 @@ Lavar y Recojer
 ![LavarRecojer](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Lavar%20todo%20y%20recojer.jpg)
 
 
+Todos los procesos aqui
+![Procesos](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/tree/master/BPMHotel/Hotel)
+
 ## BPM-Limpieza ##
 
 Revisar Empleados
