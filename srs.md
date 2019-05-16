@@ -187,6 +187,8 @@ Proceso de Cobro
 ![Cliente](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Cobrar.jpg)
 
 
+
+
 ## Specific Requirements ##
 
 3.1 External Requirements:
