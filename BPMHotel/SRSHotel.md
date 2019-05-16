@@ -606,6 +606,20 @@ R3 | Tener recetas listas a para cocinar
 R4 | Tener los utincilos necesarios para cocinar
 R5 | Tener limpia el area de trabajo
 R6 | Tener lista de pedidos de nueva materia prima
+R7 | Ser empleado del hotel
+
+
+- Camareras
+
+![Camareras](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/UseCases/Camareras.png)
+
+ID | DESC
+------------ | -------------
+R1 | Ser empleada del hotel
+R2 | Tener material de limpieza en el almacen
+R3 | Tener material en su estacion de trabajo
+R4 | Reconoces que habitaciones limpiar y el horario de limpieza de cada una de las habitaciones
+R5 | Saber limpiar cada zona de la habitacion
 
   ## Performance requirements ##
   
