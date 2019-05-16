@@ -25,7 +25,7 @@ Index.-
 - [2.-Overall Description](#Overall-Description)
 -  [2.6.1 Business Process Management Recepcion](#BPM-Recepcion)
 -  [2.6.2 Business Process Management Caferria](#BPM-Cafeteria)
-- [2.6.3 Business Process Management Limpieza](BPM-Limpieza)
+- [2.6.3 Business Process Management Limpieza](#BPM-Limpieza)
 - [3.-Specific Requirements](#Specific-Requirements)
 - [3.2 .-Functional requirements](#Functional-requirements)
 - [3.3 .-Performance requirements](#Performance-requirements)
