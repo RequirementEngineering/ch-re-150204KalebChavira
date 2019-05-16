@@ -23,13 +23,13 @@ Index.-
 
 - [1.-Introduccion](#Introduccion)
 - [2.-Overall Description](#Overall-Description)
--  [2.6.1 Business Process Management Recepcion](#BPM-Recepcion)
--  [2.6.2 Business Process Management Caferria](#BPM-Cafeteria)
+- [2.6.1 Business Process Management Recepcion](#BPM-Recepcion)
+- [2.6.2 Business Process Management Caferria](#BPM-Cafeteria)
 - [2.6.3 Business Process Management Limpieza](#BPM-Limpieza)
 - [3.-Specific Requirements](#Specific-Requirements)
 - [3.2 .-Functional requirements](#Functional-requirements)
 - [3.2.2.- Non Functonal requiremnts](#NoFuncionales)
--[3.2.3.- User Requirements](#UserRequirements)
+- [3.2.3.- User Requirements](#UserRequirements)
 - [3.3 .-Performance requirements](#Performance-requirements)
 - [4 .-Appendices](#Appendices)
 ***
