@@ -193,18 +193,22 @@ Proceso de Cobro
 
 
 Comprar Materia Prima
+
 ![Materia](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Comprar%20materia%20prima.jpg)
 
 
 Hacer Comida
+
 ![HacerComida](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Hacer%20la%20comida.jpg)
 
 
 Servir Comida
+
 ![ServirComida](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Servir%20la%20comida.jpg)
 
 
 Lavar y Recojer
+
 ![LavarRecojer](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Lavar%20todo%20y%20recojer.jpg)
 
 
