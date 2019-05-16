@@ -23,7 +23,8 @@ Index.-
 
 - [1.-Introduccion](#Introduccion)
 - [2.-Overall Description](#Overall-Description)
--  [2.6 Business Process Management](#BPM)
+-  [2.6.1 Business Process Management Recepcion](#BPM-Recepcion)
+-  [2.6.2 Business Process Management Caferria](#BPM-Cafeteria)
 - [3.-Specific Requirements](#Specific-Requirements)
 - [3.2 .-Functional requirements](#Functional-requirements)
 - [3.3 .-Performance requirements](#Performance-requirements)
@@ -161,7 +162,7 @@ Administrador: | Haber aprovado el curso de como entrar al sistema como admistra
 Los requisitos de la forma de pago atraves de tranferencias bancareas seras desplasadas al la siguiente etapa de mejoramiento del sistema, si es que no se encuentra la forma ideal para este metodo de pago.
 
 ***
-## BPM ##
+## #BPM-Recepcion ##
 2.6 Business Process Managment
 
 Main Process
@@ -187,6 +188,19 @@ Proceso de Cobro
 ![Cliente](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Cobrar.jpg)
 
 
+## BPM-Cafeteria ##
+
+Comprar Materia Prima
+!.[Materia](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Comprar%20materia%20prima.jpg)
+
+Hacer Comida
+!.[HacerComida](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Hacer%20la%20comida.jpg)
+
+Servir Comida
+!.[ServirComida](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Servir%20la%20comida.jpg)
+
+Lavar y Recojer
+!.[LavarRecojer](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Lavar%20todo%20y%20recojer.jpg)
 
 
 ## Specific Requirements ##
