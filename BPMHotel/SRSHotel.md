@@ -584,14 +584,15 @@ RAT: Tener comunicacion entre todos los empleados
 
 
 ID UR1
-Feacture: Capacitacion
-DESC:Cada empleado debe de aprobar cada uno de los cursos de capacitacion para el puesto el cual a sido contratado, desarrollar cada habilidad en cada uno de los propositos llevados en cada curso.
-RAT: Aprobar Cursos
-
-ID UR2
 Feacture: Ser empleado.
 DESC: Haber cumplido con cada requisito en el area de recursos humanos para que haya sido contratado.
 RAT: Cubrir requsitos
+
+
+ID UR2
+Feacture: Capacitacion
+DESC:Cada empleado debe de aprobar cada uno de los cursos de capacitacion para el puesto el cual a sido contratado, desarrollar cada habilidad en cada uno de los propositos llevados en cada curso.
+RAT: Aprobar Cursos
 
   ## Performance requirements ##
   
