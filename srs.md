@@ -22,7 +22,9 @@ Joaquin Kaleb Chavira Gonzalez - 150204</br>
 Index.-
 
 - [1.-Introduccion](#Introduccion)
-- [2.-Overall Description](#Overall-Description)
+
+ [2.-Overall Description](#Overall-Description)
+ [2.6 Business Process Management](#BPM)
 - [3.-Specific Requirements](#Specific-Requirements)
 - [3.2 .-Functional requirements](#Functional-requirements)
 - [3.3 .-Performance requirements](#Performance-requirements)
@@ -160,7 +162,7 @@ Administrador: | Haber aprovado el curso de como entrar al sistema como admistra
 Los requisitos de la forma de pago atraves de tranferencias bancareas seras desplasadas al la siguiente etapa de mejoramiento del sistema, si es que no se encuentra la forma ideal para este metodo de pago.
 
 ***
-
+## BPM ##
 2.6 Business Process Managment
 
 Main Process
