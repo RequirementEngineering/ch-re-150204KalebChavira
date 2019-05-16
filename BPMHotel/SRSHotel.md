@@ -560,7 +560,15 @@ DESC: Para hacer baja de una reservacion
 RAT:   En orden para registrar la baja de una reservación 
 DEP: FR4, FR8, FR10, FR11
 
-## NoFuncinales
+## NoFuncinales ##
+
+ID NFR1
+Feacture: Conexion Base de Datos
+DESC: El sistema necesita estar conecatado a la base de datos donde se ubica la mayoria de la informacion tal como:
+- Informacion de los clientes
+- Informacion de los empleados
+- Informacion de las habitaciones
+- Informacion de las reservaciones
 
 
   ## Performance requirements ##
