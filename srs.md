@@ -170,6 +170,19 @@ Proceso de Reservacion desde el Cliente
 ![Cliente](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Reservar%20una%20habitacion.jpg)
 
 
+Area de Recepcion:
+
+Reservar
+![Cliente](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Reservar.jpg)
+
+Cambiar Reservacion:
+![Cliente](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Cambiar%20reservacion.jpg)
+
+
+Eliminar Reservacion:
+![Cliente](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Eliminar%20reservacion.jpg)
+
+
 ## Specific Requirements ##
 
 3.1 External Requirements:
