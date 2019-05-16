@@ -214,7 +214,7 @@ Lavar y Recojer
 
 
 Todos los procesos aqui
-![Procesos](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/tree/master/BPMHotel/Hotel)
+[Procesos](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/tree/master/BPMHotel/Hotel)
 
 ## BPM-Limpieza ##
 
@@ -585,3 +585,6 @@ DEP:
 
 ## Appendices ##
 [Documento Elicitacion](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/DocElicitacion(Sistema%20de%20Reservaci%C3%B3n%20de%20Hotel).pdf)
+
+Link de Descarga de los Procesos en BPM de Visual Paradigm
+[BPM](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/HotelCU.vpp)
