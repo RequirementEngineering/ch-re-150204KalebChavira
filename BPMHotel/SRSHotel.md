@@ -594,6 +594,19 @@ Feacture: Capacitacion
 DESC:Cada empleado debe de aprobar cada uno de los cursos de capacitacion para el puesto el cual a sido contratado, desarrollar cada habilidad en cada uno de los propositos llevados en cada curso.
 RAT: Aprobar Cursos
 
+- Chef
+
+![Chef](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/UseCases/Chef.png)
+
+ID | DESC
+------------ | -------------
+R1 | El chef cuente con diversidad de menus a realizar
+R2 | Tener materia prima lista para usar en el almacen
+R3 | Tener recetas listas a para cocinar
+R4 | Tener los utincilos necesarios para cocinar
+R5 | Tener limpia el area de trabajo
+R6 | Tener lista de pedidos de nueva materia prima
+
   ## Performance requirements ##
   
   ID: QR1
