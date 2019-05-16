@@ -28,6 +28,7 @@ Index.-
 - [2.6.3 Business Process Management Limpieza](#BPM-Limpieza)
 - [3.-Specific Requirements](#Specific-Requirements)
 - [3.2 .-Functional requirements](#Functional-requirements)
+-[3.2.2.- Non Functonal requiremnts](#NoFuncionales)
 - [3.3 .-Performance requirements](#Performance-requirements)
 - [4 .-Appendices](#Appendices)
 ***
@@ -558,6 +559,8 @@ DESC: Para hacer baja de una reservacion
       Entonces el administrador ya deberia poder registrar la baja de la(s) reservacion(es)
 RAT:   En orden para registrar la baja de una reservación 
 DEP: FR4, FR8, FR10, FR11
+
+## NoFuncinales
 
 
   ## Performance requirements ##
