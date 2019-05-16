@@ -182,6 +182,9 @@ Cambiar Reservacion:
 Eliminar Reservacion:
 ![Cliente](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Eliminar%20reservacion.jpg)
 
+Proceso de Cobro
+![Cliente](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Cobrar.jpg)
+
 
 ## Specific Requirements ##
 
