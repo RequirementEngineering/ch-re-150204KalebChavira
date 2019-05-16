@@ -161,6 +161,13 @@ Los requisitos de la forma de pago atraves de tranferencias bancareas seras desp
 
 ***
 
+2.6 Business Process Managment
+
+Main Process
+![Main](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/HotelCU.jpg)
+
+
+
 ## Specific Requirements ##
 
 3.1 External Requirements:
@@ -508,6 +515,8 @@ DESC: A traves del botones de validar, los objetos leeran y compararan los datos
 
 RAT: Validar los campos de las interfaces en altas bajas y cambios, para asegurar que los datos son los adecuados.
 DEP:
+
+
 
 
 ## Appendices ##
