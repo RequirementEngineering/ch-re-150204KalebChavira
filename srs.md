@@ -166,6 +166,8 @@ Los requisitos de la forma de pago atraves de tranferencias bancareas seras desp
 Main Process
 ![Main](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/HotelCU.jpg)
 
+Proceso de Reservacion desde el Cliente
+![Cliente](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Reservar%20una%20habitacion.jpg)
 
 
 ## Specific Requirements ##
