@@ -22,9 +22,8 @@ Joaquin Kaleb Chavira Gonzalez - 150204</br>
 Index.-
 
 - [1.-Introduccion](#Introduccion)
-
- [2.-Overall Description](#Overall-Description)
- [2.6 Business Process Management](#BPM)
+- [2.-Overall Description](#Overall-Description)
+-  [2.6 Business Process Management](#BPM)
 - [3.-Specific Requirements](#Specific-Requirements)
 - [3.2 .-Functional requirements](#Functional-requirements)
 - [3.3 .-Performance requirements](#Performance-requirements)
