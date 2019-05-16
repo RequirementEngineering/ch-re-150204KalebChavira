@@ -29,6 +29,7 @@ Index.-
 - [3.-Specific Requirements](#Specific-Requirements)
 - [3.2 .-Functional requirements](#Functional-requirements)
 - [3.2.2.- Non Functonal requiremnts](#NoFuncionales)
+-[3.2.3.- User Requirements](#UserRequirements)
 - [3.3 .-Performance requirements](#Performance-requirements)
 - [4 .-Appendices](#Appendices)
 ***
@@ -573,6 +574,11 @@ DESC: El sistema necesita estar conecatado a la base de datos donde se ubica la 
 RAT: Poder ejecutar las acciones del CRUD en cada uno de estos.
 
 ID NFR2
+Feacture: Conexion a la Red
+DESC: El sistema necesita estar conectado a la red para que cualquier comunicado se haga llegar a cada dispositivo conectado, el cual no incluye a los clientes.
+
+RAT: Tener comunicacion entre todos los empleados
+## UserRequirements ##
 
   ## Performance requirements ##
   
