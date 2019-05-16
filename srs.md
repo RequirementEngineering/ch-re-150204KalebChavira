@@ -25,6 +25,7 @@ Index.-
 - [2.-Overall Description](#Overall-Description)
 -  [2.6.1 Business Process Management Recepcion](#BPM-Recepcion)
 -  [2.6.2 Business Process Management Caferria](#BPM-Cafeteria)
+- [2.6.3 Business Process Management Limpieza](BPM-Limpieza)
 - [3.-Specific Requirements](#Specific-Requirements)
 - [3.2 .-Functional requirements](#Functional-requirements)
 - [3.3 .-Performance requirements](#Performance-requirements)
@@ -210,6 +211,22 @@ Servir Comida
 Lavar y Recojer
 
 ![LavarRecojer](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Lavar%20todo%20y%20recojer.jpg)
+
+
+## BPM-Limpieza ##
+
+Revisar Empleados
+
+![RevisarEmpleado](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Revisar%20si%20hay%20empleados.jpg)
+
+Revisar Material
+
+![RevisarMaterial](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Revisar%20si%20hay%20material%20para%20hacer%20la%20limpieza.jpg)
+
+Validar Existencia Clientes
+
+![Clientes](https://github.com/RequirementEngineering/ch-re-150204KalebChavira/blob/master/BPMHotel/Hotel/Validar%20si%20se%20puede%20hacer.jpg)
+
 
 
 ## Specific Requirements ##
