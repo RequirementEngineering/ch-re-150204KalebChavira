@@ -26,7 +26,7 @@ Index.-
 - [3.-Specific Requirements](#Specific-Requirements)
 - [3.2 .-Functional requirements](#Functional-requirements)
 - [3.3 .-Performance requirements](#Performance-requirements)
-- [3.4 .-Appendices](#Appendices)
+- [4 .-Appendices](#Appendices)
 ***
 
 ## Introduccion ##
